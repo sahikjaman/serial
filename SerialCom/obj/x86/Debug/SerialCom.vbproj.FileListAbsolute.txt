@@ -1,0 +1,23 @@
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.exe.config
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.AssemblyReference.cache
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.GenerateResource.cache
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.CoreCompileInputs.cache
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+C:\Users\HVE RTG\Downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
